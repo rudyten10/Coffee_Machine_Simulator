@@ -1,2 +1,4 @@
-# CoffeeMachineSimulator
-Coffee Machine project at Hyperskill.org #Kotlin
+Simple Coffee Machine Simulator
+
+#kotlin
+#hyperskill
