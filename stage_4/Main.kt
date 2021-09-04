@@ -1,5 +1,3 @@
-package machine
-
 var water = 400
 var milk = 540
 var beans = 120
