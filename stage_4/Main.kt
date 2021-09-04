@@ -74,10 +74,10 @@ fun take() {
 }
 
 fun stats() {
-    println("The coffee machine has:")
-    println("$water of water")
-    println("$milk of milk")
-    println("$beans of coffee beans")
-    println("$cups of disposable cups")
-    println("$money of money")
+    println("""The coffee machine has:
+        $water of water
+        $milk of milk
+        $beans of coffee beans
+        $cups of disposable cups
+        $money of money""".trimMargin())
 }
